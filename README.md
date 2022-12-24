@@ -9,4 +9,4 @@
  </ul>
   </li>
  <li>Link đề thi:</li> https://bit.ly/dethi_round3
- <li>Link video của đội thi:</li> 
+ <li>Link video của đội thi:</li> https://youtu.be/Cgvv15fem1Y
